@@ -1,7 +1,10 @@
-# Final-Project-Template
+# Maternal Mortality Data Analysis Project
 <!-- Edit the title above with your project title -->
 
 ## Project Overview
+This project explores maternal mortality as a public health indicator, focusing on both U.S. and global trends between 2018 and 2023. Maternal mortality is not only a measure of healthcare quality but also a reflection of broader inequities in access, socioeconomic conditions, and policy effectiveness. Despite being a high-income nation, the United States has experienced rising maternal mortality rates in recent years, often exceeding those of peer countries. Globally, stark differences remain between regions, with low-income countries carrying the highest burden.
+
+By analyzing datasets from the CDC, NCHS, and WHO, this project seeks to identify trends, regional disparities, and international comparisons. The findings can provide insight into where interventions are most urgently needed and contribute to ongoing discussions about improving maternal healthcare outcomes.
 
 ## Self Assessment and Reflection
 
